@@ -1,2 +1,2 @@
 # test
-tesr repository
+tesr repository for learing
